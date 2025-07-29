@@ -1,2 +1,2 @@
-# colck-project
-This is my Responsive colck project
+# clock-project
+This is my Responsive clock project
